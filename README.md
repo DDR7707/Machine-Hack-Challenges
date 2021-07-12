@@ -7,3 +7,5 @@
 3 . [Merchandise Popularity Prediction](https://machinehack.com/hackathons/merchandise_popularity_prediction_challenge/overview)
 
 4 . [Financial Risk Prediction](https://machinehack.com/hackathons/financial_risk_prediction_weekend_hackathon_5/overview)
+
+5 . [Melanoma Tumor Size Prediction](https://machinehack.com/hackathons/melanoma_tumor_size_prediction_weekend_hackathon_15/overview)
