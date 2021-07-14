@@ -9,3 +9,5 @@
 4 . [Financial Risk Prediction](https://machinehack.com/hackathons/financial_risk_prediction_weekend_hackathon_5/overview)
 
 5 . [Melanoma Tumor Size Prediction](https://machinehack.com/hackathons/melanoma_tumor_size_prediction_weekend_hackathon_15/overview)
+
+6 . [Food Delivery Time Prediction](https://machinehack.com/hackathons/predicting_food_delivery_time_hackathon_by_ims_proschool/overview)
