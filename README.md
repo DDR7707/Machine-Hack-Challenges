@@ -13,3 +13,5 @@
 6 . [Food Delivery Time Prediction](https://machinehack.com/hackathons/predicting_food_delivery_time_hackathon_by_ims_proschool/overview)
 
 7 . [ODI Match Winner Prediction](https://machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9/overview)
+
+8 . [Restaurant Food Cost Prediction](https://machinehack.com/hackathons/predicting_restaurant_food_cost_hackathon/overview)
