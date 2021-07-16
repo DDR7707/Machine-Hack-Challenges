@@ -11,3 +11,5 @@
 5 . [Melanoma Tumor Size Prediction](https://machinehack.com/hackathons/melanoma_tumor_size_prediction_weekend_hackathon_15/overview)
 
 6 . [Food Delivery Time Prediction](https://machinehack.com/hackathons/predicting_food_delivery_time_hackathon_by_ims_proschool/overview)
+
+7 . [ODI Match Winner Prediction](https://machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9/overview)
