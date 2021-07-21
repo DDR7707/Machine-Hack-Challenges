@@ -15,3 +15,5 @@
 7 . [ODI Match Winner Prediction](https://machinehack.com/hackathons/odi_match_winner_weekend_hackathon_9/overview)
 
 8 . [Restaurant Food Cost Prediction](https://machinehack.com/hackathons/predicting_restaurant_food_cost_hackathon/overview)
+
+9 . [Doctor's Fee Prediction](https://machinehack.com/hackathons/predict_a_doctor_s_consultation_fee_hackathon/overview)
